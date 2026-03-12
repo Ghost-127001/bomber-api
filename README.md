@@ -28,7 +28,7 @@ Example API Configuration:
 }
 ```
 > [!NOTE]
-> **Maintenance & Contributions:** Currently, **98% of the APIs are working perfectly**. Some may expire as they are temporary, but the API file is updated **every week**. 
+> **Maintenance & Contributions:** Currently, **98% of the APIs are working perfectly**. Some may expire as they are temporary, but the API file is updated . 
 > Forks and Pull Requests are highly encouraged! If you find this project useful, please consider giving it a ⭐ **Star**!
 
 ### ⚠️ Disclaimer
