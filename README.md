@@ -36,7 +36,7 @@ Example API Configuration:
 | Version | Status | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **v2.0** | **Latest** | Added more Endpoint APIs | [ **API_2**](https://drive.google.com/uc?export=download&id=1CpssaxcWm1atPrmQDZ1_lrDzrTz9EXWS) |
-| **v1.0** | Legacy | Original collection | [ **API File**](./api_config.py) |
+| **v1.0** | Legacy | Original collection | [ **API_1**](./api_config.py) |
 
 
 ### ⚠️ Disclaimer
