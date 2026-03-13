@@ -31,6 +31,14 @@ Example API Configuration:
 > **Maintenance & Contributions:** Currently, **98% of the APIs are working perfectly**. Some may expire as they are temporary, but the API file is updated . 
 > Forks and Pull Requests are highly encouraged! If you find this project useful, please consider giving it a ⭐ **Star**!
 
+### 📂 Version History
+
+| Version | Status | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **v2.0 (New)** | 🚀 **Latest** | Added more Endpoint APIs | [📩 **Download Now**](https://drive.google.com/uc?export=download&id=1CpssaxcWm1atPrmQDZ1_lrDzrTz9EXWS) |
+| **v1.0 (Old)** | ⚠️ Legacy | Original collection | [📄 **View File**](./api_config.py) |
+
+
 ### ⚠️ Disclaimer
 This repository is strictly for educational research and security testing only.
 Do not use this API's for SMS/Call/Email bombing, spamming, or any malicious activities.
