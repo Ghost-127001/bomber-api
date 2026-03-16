@@ -1,7 +1,7 @@
-# Frontend OTP API Collection 🚀📱
+# OTP/Email/Call **Bomber API** Collection 🚀📱
 
 ### 📖 About
-A collection of frontend APIs specifically used for triggering OTP requests.
+A collection of Endpoint APIs specifically used for triggering OTP requests.
 Extracted from live websites.
 
 
