@@ -1,4 +1,4 @@
-# OTP/Email/Call **Bomber API** Collection 🚀📱
+# OTP/Email/Call **Bomber API** Collection 
 
 ### 📖 About
 A collection of Endpoint APIs specifically used for triggering OTP requests.
@@ -58,4 +58,3 @@ Do not use this API's for SMS/Call/Email bombing, spamming, or any malicious act
 `Made with 🤎`
 
 </div>
-
