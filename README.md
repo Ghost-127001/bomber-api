@@ -6,7 +6,7 @@ Extracted from live websites.
 
 
 ### ✨ Features
-Contains structured dictionaries for over 100+ live SMs/Call/Email endpoints APIs.
+Contains structured dictionaries for SMs/Call/Email endpoints APIs.
 Demonstrates complex header management, session tokens, and payload formatting.
 
 ### 🚀 Usage Instructions
@@ -35,6 +35,7 @@ Example API Configuration:
 
 | Version | Status | Description | Link |
 | :--- | :--- | :--- | :--- |
+| **v3.0** | **Coming Soon** | .... | [ ]
 | **v2.0** | **Latest** | Added more Endpoint APIs | [ **API_2**](https://drive.google.com/uc?export=download&id=1CpssaxcWm1atPrmQDZ1_lrDzrTz9EXWS) |
 | **v1.0** | Legacy | Original collection | [ **API_1**](./api_config.py) |
 
